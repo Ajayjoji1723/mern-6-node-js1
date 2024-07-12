@@ -268,3 +268,4 @@ app.get("/profile", jwtAuth, async (req, res) => {
 });
 
 
+console.log("hello")
