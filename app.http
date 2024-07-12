@@ -1,0 +1,13 @@
+GET http://localhost:4444 
+###
+
+GET http://localhost:4444/date 
+### 
+
+GET http://localhost:4444/books 
+###
+GET http://localhost:4444/book/4
+###
+
+GET http://localhost:4444/filters?limit=3&offset=4
+
